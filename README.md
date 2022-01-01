@@ -1,4 +1,4 @@
-# golang_http_upload_with_progressbar
+# go http web multi files upload with progressbar
 
 a web interface with progress bar uploading, and golang is backend, very simple version.
 
